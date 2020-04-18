@@ -59,7 +59,7 @@ After the activities the participants should:
       - Create an instance in AWS or DO
 
 - **Linux**
-  - Install with VirtualBox...
+  - Install Ubuntu with VirtualBox (check the [Resources][] )
   - Ubuntu Overview
     - Graphical interface overview
     - System configuration tool
@@ -74,8 +74,10 @@ After the activities the participants should:
       - find . -name caffeine.txt
       - top, kill
       - exit
-    - Use the man command _ man man _ man ls _ How to list by size? _ Wild cards
-      _ ls _.txt
+    - Use the man command:
+      - man man / man ls (How to list by size?)
+    - Wild cards
+      - ls \*.txt
     - Package manager
       - apt
         - cowsay
