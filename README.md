@@ -9,13 +9,13 @@ for us.
 
 After the activities the participants should:
 
-- **Concepts - understand what these are:**
+- **(Concepts) Understand what these are:**
 
   - Operating systems
   - Linux
   - Virtual machines
 
-- **Skills - know how to do these:**
+- **(Skills) Know how to do these:**
   - Install and use a hypervisor
   - Perform basic tasks in a Linux environment
   - Find Linux documentation
