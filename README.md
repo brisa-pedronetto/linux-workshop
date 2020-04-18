@@ -1,16 +1,21 @@
 # Linux/VM Workshop
 
+In this workshop you will get an introduction to the Linux environment. We'll go
+through the installation (using a virtual machine) and usage of basic commands
+on the Terminal. To finish off we will configure Cron to do a task automatically
+for us.
+
 ## Goals
 
 After the activities the participants should:
 
-- Concepts - understand what these are:
+- **Concepts - understand what these are:**
 
   - Operating systems
   - Linux
   - Virtual machines
 
-- Skills - know how to do these:
+- **Skills - know how to do these:**
   - Install and use a hypervisor
   - Perform basic tasks in a Linux environment
   - Find Linux documentation
