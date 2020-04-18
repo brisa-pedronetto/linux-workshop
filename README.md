@@ -9,13 +9,13 @@ for us.
 
 After the activities the participants should:
 
-- **(Concepts) Understand what these are:**
+- (Concepts) Understand what these are:
 
   - Operating systems
   - Linux
   - Virtual machines
 
-- **(Skills) Know how to do these:**
+- (Skills) Know how to do these:
   - Install and use a hypervisor
   - Perform basic tasks in a Linux environment
   - Find Linux documentation
@@ -23,7 +23,7 @@ After the activities the participants should:
 
 ## Topics
 
-- **Operating Systems**
+- Operating Systems
 
   - What is an Operating System?
     - Diagram
@@ -49,7 +49,7 @@ After the activities the participants should:
       Station](https://training.linuxfoundation.org/solutions/corporate-solutions/success-stories/linux-foundation-training-prepares-the-international-space-station-for-linux-migration/)?
     - Desktop OS
 
-- **Virtual Machines**
+- Virtual Machines
 
   - What is a Virtual Machine?
   - What are Hypervisors?
@@ -58,8 +58,8 @@ After the activities the participants should:
     - Cloud services
       - Create an instance in AWS or DO
 
-- **Linux**
-  - Install Ubuntu with VirtualBox (check the [Resources][] )
+- Linux
+  - Install Ubuntu with VirtualBox (check the Resources section below)
   - Ubuntu Overview
     - Graphical interface overview
     - System configuration tool
@@ -87,7 +87,7 @@ After the activities the participants should:
     - Network Operations
       - Ping
       - Nmap google.com
-- **Cron jobs**
+- Cron jobs
   - What are Cron jobs?
   - Exercise
     - Create python script to update a file
@@ -97,14 +97,14 @@ After the activities the participants should:
 
 ## Resources
 
-- **Downloads**
+- Downloads
 
   - [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
     (Pick an option from “VirtualBox platform packages”)
   - [https://ubuntu.com/download](https://ubuntu.com/download) (Download Ubuntu
     Desktop)
 
-- **Sources**
+- Sources
 
   - [https://en.wikipedia.org/wiki/Operating_system](https://en.wikipedia.org/wiki/Operating_system)
   - [https://en.wikipedia.org/wiki/Virtual_machine](https://en.wikipedia.org/wiki/Virtual_machine)
@@ -120,7 +120,7 @@ After the activities the participants should:
   - [Scheduling Tasks with Cron
     Jobs](https://code.tutsplus.com/tutorials/scheduling-tasks-with-cron-jobs--net-8800)
 
-* **Further learning**
+* Further learning
 
   - [LINUX Exercises, Exams, Challenges](https://practity.com/lynux/)
   - [Linux Journey](https://linuxjourney.com/)
@@ -136,6 +136,6 @@ After the activities the participants should:
     - [Useless but fun terminal
       commands](https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
 
-* **Multimedia**
+* Multimedia
   - Movie [Revolution OS](https://www.youtube.com/watch?v=PcdnamUOeaA), about
     the beginning of free Free Software Movement
