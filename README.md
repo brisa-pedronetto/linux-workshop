@@ -1,4 +1,4 @@
-# Linux/VM Workshop
+# Linux Workshop
 
 In this workshop you will get an introduction to the Linux environment. We'll go
 through the installation (using a virtual machine) and usage of basic commands
@@ -7,30 +7,31 @@ for us.
 
 ## Goals
 
-After the activities the participants should:
+After the workshop the participants should have grasped concepts and developed
+skills as follows.
 
-- (Concepts) Understand what these are:
+- Understand what are:
 
   - Operating systems
-  - Linux
+  - Linux systems
   - Virtual machines
 
-- (Skills) Know how to do these:
+- Know how to:
   - Install and use a hypervisor
   - Perform basic tasks in a Linux environment
-  - Find Linux documentation
   - Use Cron jobs
 
-## Topics
+## Structure
 
 - Operating Systems
 
   - What is an Operating System?
-    - Diagram
-    - Examples of OS
-  - What is GNU/Linux?
+    - Basic explanation
+    - **Exercise:** What are some examples of OS? (5 min)
+  - GNU/Linux
     - Open Source software
     - What are distributions?
+    - **Exercise:** Find 2 distributions you find interesting (10-15 min)
     - Ubuntu
   - What is Linux used for?
     - All [Android](<https://en.wikipedia.org/wiki/Android_(operating_system)>)
@@ -53,10 +54,10 @@ After the activities the participants should:
 
   - What is a Virtual Machine?
   - What are Hypervisors?
-    - Virtualbox
+  - Virtualbox
   - What are VMs used for?
-    - Cloud services
-      - Create an instance in AWS or DO
+  - Cloud services
+    - Create an instance in AWS or DO
 
 - Linux
   - Install Ubuntu with VirtualBox (check the Resources section below)
@@ -67,7 +68,7 @@ After the activities the participants should:
   - Linux overview
     - Folder structure overview
     - Basic command line usage
-      - whoami, whatis
+      - whoami, whatis, whereis
       - cd, pwd, mkdir, ls -l, cp, cp -R, mv, rm, rm -R
       - cat, more
       - df -h, du -sh
@@ -113,8 +114,12 @@ After the activities the participants should:
   - [https://en.wikipedia.org/wiki/Cron](https://en.wikipedia.org/wiki/Cron)
   - [Best virtual machine software of 2020: virtualization for different
     OS](https://www.techradar.com/best/best-virtual-machine-software)
+  - [What virtualization technology is set up on
+    VPS?](https://www.namecheap.com/support/knowledgebase/article.aspx/909/48/what-virtualization-technology-is-set-up-on-vps/)
   - [The Linux Directory Structure,
     Explained](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
+  - [How to find out the virtualization type of an linux VPS?
+    ](https://serverfault.com/questions/595471/how-to-find-out-the-virtualization-type-of-an-linux-vps)
   - [37 Important Linux Commands You Should
     Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
   - [Scheduling Tasks with Cron
@@ -137,5 +142,7 @@ After the activities the participants should:
       commands](https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
 
 * Multimedia
-  - Movie [Revolution OS](https://www.youtube.com/watch?v=PcdnamUOeaA), about
+  - Explainer - [What is an Operating System as Fast As
+    Possible](https://www.youtube.com/watch?v=pVzRTmdd9j0)
+  - Movie - [Revolution OS](https://www.youtube.com/watch?v=PcdnamUOeaA), about
     the beginning of free Free Software Movement
