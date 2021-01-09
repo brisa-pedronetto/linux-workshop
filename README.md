@@ -128,6 +128,7 @@ skills as follows.
 * Further learning
 
   - [LINUX Exercises, Exams, Challenges](https://practity.com/lynux/)
+  - [35 Linux Basic Commands Every User Should Know](https://www.hostinger.in/tutorials/linux-commands)
   - [Linux Journey](https://linuxjourney.com/)
   - [Start Learning Linux in
     Minutes](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
@@ -135,6 +136,7 @@ skills as follows.
     Everyone](https://itsfoss.com/free-linux-training-courses/)
   - [Linux Foundation Learning
     Center](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+  - [Create and Run Your First Bash Shell Script](https://linuxhandbook.com/run-shell-script/)
   - Random stuff
     - [Text-based
       games](https://www.tecmint.com/best-linux-terminal-console-games/)
